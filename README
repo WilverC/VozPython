@@ -16,4 +16,4 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 pip install "nombre del modulo"
 
-Nota: el modulo debe estar en la misma carpeta de scripts de python
+Nota: el modulo debe estar en la misma carpeta de scripts de python 
