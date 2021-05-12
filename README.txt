@@ -1,0 +1,19 @@
+
+"Interfaz de voz"
+
+Prueba de voz con python
+
+Version de python 3.8.5
+Version de windows 10
+
+Para windows si no se ha instalado, se deberá instalar
+
+pip install pyttsx3
+pip install SpeechRecognition
+
+Sí no tiene instalado pyAudio buscar la version correspondiente e instalarlo
+https://www.lfd.uci.edu/~gohlke/pythonlibs/
+
+pip install "nombre del modulo"
+
+Nota: el modulo debe estar en la misma carpeta de scripts de python

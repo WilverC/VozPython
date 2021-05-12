@@ -1,0 +1,5 @@
+
+#ignora cache python
+__pycache__
+
+#ignora otros
